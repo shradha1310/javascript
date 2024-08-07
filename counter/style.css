@@ -1,0 +1,44 @@
+/* body {
+    background-color: #212121;
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    font-family: Verdana;
+  } */
+  
+  
+  
+  
+  .btn {
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    width: 75px;
+    height: 30px;
+    margin: 2px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: thin;  
+  }
+  
+  #decreaseBtn {
+    border-radius: 5px 5px 0 5px;
+  } 
+  
+  #increaseBtn {
+    border-radius: 5px 5px 5px 0;
+  } 
+  
+  #resetBtn {
+    border-radius: 5px 0 5px 5px;
+  } 
+  
+  #randomBtn {
+    border-radius: 0 5px 5px 5px;
+  } 
+  
+  #submit {
+    margin: 0;
+  }
