@@ -17,3 +17,5 @@ function sumArray(){
     }
 }
 sumArray()
+//Time complexity - O[QN]
+//Space complexity - O(1)
